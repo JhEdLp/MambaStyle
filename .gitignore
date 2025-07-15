@@ -16,13 +16,7 @@ output/     # If your scripts generate large output files
 opts.json
 sweep_config.yaml
 evaluate.sh
-
-# Operating System specific
-dgcm/   # macOS specific
-
-# IDE specific
-.vscode/    # Visual Studio Code settings
-.idea/      # PyCharm/IntelliJ IDEA settings
+evaluate_sweep.sh
 
 # Pretrained Models and Results
 pretrained_*/
@@ -32,3 +26,5 @@ matlabapi/
 dnnlib/
 wandb/
 logs/
+dgcm/  
+.vscode/
