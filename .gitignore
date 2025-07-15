@@ -1,0 +1,34 @@
+# Python-specific
+__pycache__/
+*.pyc
+venv_mamba2/       # Virtual environment folder
+/home/lopezdje/projects/Mamba2_GAN_Inv/venv_mamba2/
+
+# Data/Output
+data/       # If you have large datasets or temporary data
+output/     # If your scripts generate large output files
+*.log       # Log files
+*.csv
+*.txt
+*.slurm
+*.pth
+*.pt
+opts.json
+sweep_config.yaml
+evaluate.sh
+
+# Operating System specific
+dgcm/   # macOS specific
+
+# IDE specific
+.vscode/    # Visual Studio Code settings
+.idea/      # PyCharm/IntelliJ IDEA settings
+
+# Pretrained Models and Results
+pretrained_*/
+Results*/
+Final_Results/
+matlabapi/
+dnnlib/
+wandb/
+logs/
