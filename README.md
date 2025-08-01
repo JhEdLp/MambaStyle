@@ -153,15 +153,13 @@ MambaStyle builds on the foundations of [pSp](https://github.com/eladrich/pixel2
 If you use MambaStyle in your research, please cite:
 
 ```
-@article{wei2022e2style,
-  title={E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion},
-  author={Wei, Tianyi and Chen, Dongdong and Zhou, Wenbo and Liao, Jing and Zhang, Weiming and Yuan, Lu and Hua, Gang and Yu, Nenghai},
-  journal={IEEE Transactions on Image Processing},
-  year={2022}
+@article{lopez2025mambastyle,
+  title={MambaStyle: Efficient StyleGAN Inversion for Real Image Editing with State-Space Models},
+  author={Lopez, Jhon and Hinojosa, Carlos and Arguello, Henry and Ghanem, Bernard},
+  journal={arXiv preprint arXiv:2505.15822},
+  year={2025}
 }
 ```
 
 ---
-
-Let me know if you want to further customize the README (e.g., add badges, update author list, or clarify any section)!
 
