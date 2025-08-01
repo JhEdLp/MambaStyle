@@ -6,7 +6,7 @@ Welcome to **MambaStyle**, a PyTorch-based toolkit for efficient and effective S
 - **Paper:** [E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion (TIP 2022)](https://wty-ustc.github.io/inversion/paper/E2Style.pdf)
 - **Demo Video:** [YouTube](https://youtu.be/gJwFgdRHK0M)
 
-<img src='imgs/teaser.png' alt='MambaStyle Teaser'>
+<img src='method.png' alt='MambaStyle Teaser'>
 
 ---
 
@@ -25,8 +25,8 @@ Welcome to **MambaStyle**, a PyTorch-based toolkit for efficient and effective S
 
 ## News
 
-- **2022.03.26:** Paper accepted by IEEE Transactions on Image Processing (TIP)!
-- **2022.02.19:** Initial code release.
+<!--- **2022.03.26:** Paper accepted by IEEE Transactions on Image Processing (TIP)!-->
+- **2025.08.01:** Initial code release.
 
 ---
 
